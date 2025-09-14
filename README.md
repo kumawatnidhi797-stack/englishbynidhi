@@ -1,1 +1,336 @@
-# englishbynidhi
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Tenses - By Nidhi Kumawat</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+            border-bottom: 5px solid #0779e4;
+        }
+        h1, h2, h3, h4 {
+            color: #0779e4;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .tense-type {
+            background: #e9ecef;
+            padding: 15px;
+            border-left: 5px solid #0779e4;
+            margin-bottom: 15px;
+        }
+        .examples {
+            margin-top: 10px;
+            padding: 10px;
+            background: #f8f9fa;
+            border: 1px dashed #ccc;
+        }
+        .example {
+            margin-bottom: 5px;
+        }
+        .hindi {
+            color: #dc3545;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>English by Nidhi Kumawat</h1>
+        <h2>Tenses (काल)</h2>
+    </header>
+
+    <div class="container">
+        <p>Tenses हमें यह बताते हैं कि कोई काम किस समय हुआ है। क्या वह काम अभी हो रहा है, हो चुका है, या होने वाला है। Tenses के तीन मुख्य प्रकार होते हैं:</p>
+        <ol>
+            <li>Present Tense (वर्तमान काल) - जो काम अभी हो रहा है।</li>
+            <li>Past Tense (भूतकाल) - जो काम हो चुका है।</li>
+            <li>Future Tense (भविष्य काल) - जो काम होने वाला है।</li>
+        </ol>
+        <p>हर Tense के चार हिस्से (parts) होते हैं:</p>
+        <ul>
+            <li>Simple / Indefinite</li>
+            <li>Continuous</li>
+            <li>Perfect</li>
+            <li>Perfect Continuous</li>
+        </ul>
+
+        <div class="section">
+            <hr>
+            <h2>1. Present Tense (वर्तमान काल)</h2>
+            <p>यह हमें उन कामों के बारे में बताता है जो अभी हो रहे हैं या जो अक्सर होते रहते हैं।</p>
+
+            <div class="tense-type">
+                <h3>a) Present Simple Tense</h3>
+                <p>यह उन कामों के लिए इस्तेमाल होता है जो हमारी आदतें हैं, रोज़ होते हैं, या सच हैं।</p>
+                <p><b>Structure:</b> Subject + Verb (1st form) + s/es + Object</p>
+                <p class="hindi"><b>Structure (Hindi):</b> कर्ता + क्रिया (पहला रूप) + s/es + कर्म</p>
+                <div class="examples">
+                    <h4>Examples:</h4>
+                    <div class="example">1. I eat food. <span class="hindi">(मैं खाना खाता हूँ।)</span></div>
+                    <div class="example">2. She goes to school. <span class="hindi">(वह स्कूल जाती है।)</span></div>
+                    <div class="example">3. We play cricket. <span class="hindi">(हम क्रिकेट खेलते हैं।)</span></div>
+                    <div class="example">4. The sun rises in the east. <span class="hindi">(सूरज पूरब में उगता है।)</span></div>
+                    <div class="example">5. He drinks milk. <span class="hindi">(वह दूध पीता है।)</span></div>
+                    <div class="example">6. They read books. <span class="hindi">(वे किताबें पढ़ते हैं।)</span></div>
+                    <div class="example">7. My mother cooks food. <span class="hindi">(मेरी माँ खाना बनाती है।)</span></div>
+                    <div class="example">8. A cat runs fast. <span class="hindi">(एक बिल्ली तेज़ दौड़ती है।)</span></div>
+                    <div class="example">9. Birds fly in the sky. <span class="hindi">(पक्षी आसमान में उड़ते हैं।)</span></div>
+                    <div class="example">10. Ram studies hard. <span class="hindi">(राम मेहनत से पढ़ाई करता है।)</span></div>
+                </div>
+            </div>
+
+            <div class="tense-type">
+                <h3>b) Present Continuous Tense</h3>
+                <p>यह उन कामों के लिए इस्तेमाल होता है जो अभी, बोलते समय, हो रहे हैं।</p>
+                <p><b>Structure:</b> Subject + is/am/are + Verb (1st form) + ing + Object</p>
+                <p class="hindi"><b>Structure (Hindi):</b> कर्ता + है/हूँ/हैं + क्रिया + रहा/रही/रहे + कर्म</p>
+                <div class="examples">
+                    <h4>Examples:</h4>
+                    <div class="example">1. I am eating food. <span class="hindi">(मैं खाना खा रहा हूँ।)</span></div>
+                    <div class="example">2. She is going to school. <span class="hindi">(वह स्कूल जा रही है।)</span></div>
+                    <div class="example">3. We are playing cricket. <span class="hindi">(हम क्रिकेट खेल रहे हैं।)</span></div>
+                    <div class="example">4. The sun is shining. <span class="hindi">(सूरज चमक रहा है।)</span></div>
+                    <div class="example">5. He is drinking milk. <span class="hindi">(वह दूध पी रहा है।)</span></div>
+                    <div class="example">6. They are reading books. <span class="hindi">(वे किताबें पढ़ रहे हैं।)</span></div>
+                    <div class="example">7. My mother is cooking food. <span class="hindi">(मेरी माँ खाना बना रही है।)</span></div>
+                    <div class="example">8. A cat is running fast. <span class="hindi">(एक बिल्ली तेज़ दौड़ रही है।)</span></div>
+                    <div class="example">9. Birds are flying in the sky. <span class="hindi">(पक्षी आसमान में उड़ रहे हैं।)</span></div>
+                    <div class="example">10. Ram is studying. <span class="hindi">(राम पढ़ाई कर रहा है।)</span></div>
+                </div>
+            </div>
+
+            <div class="tense-type">
+                <h3>c) Present Perfect Tense</h3>
+                <p>यह उन कामों के लिए इस्तेमाल होता है जो अभी-अभी खत्म हुए हैं।</p>
+                <p><b>Structure:</b> Subject + has/have + Verb (3rd form) + Object</p>
+                <p class="hindi"><b>Structure (Hindi):</b> कर्ता + चुका है/चुकी है/चुके हैं + क्रिया (तीसरा रूप) + कर्म</p>
+                <div class="examples">
+                    <h4>Examples:</h4>
+                    <div class="example">1. I have eaten food. <span class="hindi">(मैं खाना खा चुका हूँ।)</span></div>
+                    <div class="example">2. She has gone to school. <span class="hindi">(वह स्कूल जा चुकी है।)</span></div>
+                    <div class="example">3. We have played cricket. <span class="hindi">(हम क्रिकेट खेल चुके हैं।)</span></div>
+                    <div class="example">4. The sun has risen. <span class="hindi">(सूरज उग चुका है।)</span></div>
+                    <div class="example">5. He has drunk milk. <span class="hindi">(वह दूध पी चुका है।)</span></div>
+                    <div class="example">6. They have read books. <span class="hindi">(वे किताबें पढ़ चुके हैं।)</span></div>
+                    <div class="example">7. My mother has cooked food. <span class="hindi">(मेरी माँ खाना बना चुकी है।)</span></div>
+                    <div class="example">8. A cat has run fast. <span class="hindi">(एक बिल्ली तेज़ दौड़ चुकी है।)</span></div>
+                    <div class="example">9. Birds have flown in the sky. <span class="hindi">(पक्षी आसमान में उड़ चुके हैं।)</span></div>
+                    <div class="example">10. Ram has studied. <span class="hindi">(राम पढ़ाई कर चुका है।)</span></div>
+                </div>
+            </div>
+
+            <div class="tense-type">
+                <h3>d) Present Perfect Continuous Tense</h3>
+                <p>यह उन कामों के लिए इस्तेमाल होता है जो बीते समय में शुरू हुए थे और अभी भी चल रहे हैं। इसमें समय बताया जाता है।</p>
+                <p><b>Structure:</b> Subject + has/have been + Verb (1st form) + ing + Object + Since/For + Time</p>
+                <p class="hindi"><b>Structure (Hindi):</b> कर्ता + रहा/रही/रहे हैं + क्रिया + समय</p>
+                <div class="examples">
+                    <h4>Examples:</h4>
+                    <div class="example">1. I have been eating food for an hour. <span class="hindi">(मैं एक घंटे से खाना खा रहा हूँ।)</span></div>
+                    <div class="example">2. She has been going to school since 2015. <span class="hindi">(वह 2015 से स्कूल जा रही है।)</span></div>
+                    <div class="example">3. We have been playing cricket since morning. <span class="hindi">(हम सुबह से क्रिकेट खेल रहे हैं।)</span></div>
+                    <div class="example">4. He has been drinking milk for 10 minutes. <span class="hindi">(वह 10 मिनट से दूध पी रहा है।)</span></div>
+                    <div class="example">5. They have been reading books for two hours. <span class="hindi">(वे दो घंटे से किताबें पढ़ रहे हैं।)</span></div>
+                    <div class="example">6. My mother has been cooking since 5 PM. <span class="hindi">(मेरी माँ शाम 5 बजे से खाना बना रही है।)</span></div>
+                    <div class="example">7. It has been raining since last night. <span class="hindi">(कल रात से बारिश हो रही है।)</span></div>
+                    <div class="example">8. He has been working in this company for five years. <span class="hindi">(वह इस कंपनी में पाँच साल से काम कर रहा है।)</span></div>
+                    <div class="example">9. We have been waiting for you for a long time. <span class="hindi">(हम तुम्हारा बहुत देर से इंतज़ार कर रहे हैं।)</span></div>
+                    <div class="example">10. She has been singing for two hours. <span class="hindi">(वह दो घंटे से गा रही है।)</span></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <hr>
+            <h2>2. Past Tense (भूतकाल)</h2>
+            <p>यह हमें उन कामों के बारे में बताता है जो बीत चुके हैं।</p>
+            <div class="tense-type">
+                <h3>a) Past Simple Tense</h3>
+                <p>यह उन कामों के लिए इस्तेमाल होता है जो बीते समय में हुए और खत्म हो गए।</p>
+                <p><b>Structure:</b> Subject + Verb (2nd form) + Object</p>
+                <p class="hindi"><b>Structure (Hindi):</b> कर्ता + क्रिया (दूसरा रूप) + कर्म</p>
+                <div class="examples">
+                    <h4>Examples:</h4>
+                    <div class="example">1. I ate food. <span class="hindi">(मैंने खाना खाया।)</span></div>
+                    <div class="example">2. She went to school. <span class="hindi">(वह स्कूल गई।)</span></div>
+                    <div class="example">3. We played cricket. <span class="hindi">(हमने क्रिकेट खेला।)</span></div>
+                    <div class="example">4. The sun rose. <span class="hindi">(सूरज उगा।)</span></div>
+                    <div class="example">5. He drank milk. <span class="hindi">(उसने दूध पिया।)</span></div>
+                    <div class="example">6. They read books. <span class="hindi">(उन्होंने किताबें पढ़ी।)</span></div>
+                    <div class="example">7. My mother cooked food. <span class="hindi">(मेरी माँ ने खाना बनाया।)</span></div>
+                    <div class="example">8. A cat ran fast. <span class="hindi">(एक बिल्ली तेज़ दौड़ी।)</span></div>
+                    <div class="example">9. Birds flew in the sky. <span class="hindi">(पक्षी आसमान में उड़े।)</span></div>
+                    <div class="example">10. Ram studied hard. <span class="hindi">(राम ने मेहनत से पढ़ाई की।)</span></div>
+                </div>
+            </div>
+
+            <div class="tense-type">
+                <h3>b) Past Continuous Tense</h3>
+                <p>यह उन कामों के लिए इस्तेमाल होता है जो बीते समय में चल रहे थे।</p>
+                <p><b>Structure:</b> Subject + was/were + Verb (1st form) + ing + Object</p>
+                <p class="hindi"><b>Structure (Hindi):</b> कर्ता + रहा था/रही थी/रहे थे + क्रिया + कर्म</p>
+                <div class="examples">
+                    <h4>Examples:</h4>
+                    <div class="example">1. I was eating food. <span class="hindi">(मैं खाना खा रहा था।)</span></div>
+                    <div class="example">2. She was going to school. <span class="hindi">(वह स्कूल जा रही थी।)</span></div>
+                    <div class="example">3. We were playing cricket. <span class="hindi">(हम क्रिकेट खेल रहे थे।)</span></div>
+                    <div class="example">4. The sun was shining. <span class="hindi">(सूरज चमक रहा था।)</span></div>
+                    <div class="example">5. He was drinking milk. <span class="hindi">(वह दूध पी रहा था।)</span></div>
+                    <div class="example">6. They were reading books. <span class="hindi">(वे किताबें पढ़ रहे थे।)</span></div>
+                    <div class="example">7. My mother was cooking food. <span class="hindi">(मेरी माँ खाना बना रही थी।)</span></div>
+                    <div class="example">8. A cat was running fast. <span class="hindi">(एक बिल्ली तेज़ दौड़ रही थी।)</span></div>
+                    <div class="example">9. Birds were flying in the sky. <span class="hindi">(पक्षी आसमान में उड़ रहे थे।)</span></div>
+                    <div class="example">10. Ram was studying. <span class="hindi">(राम पढ़ाई कर रहा था।)</span></div>
+                </div>
+            </div>
+
+            <div class="tense-type">
+                <h3>c) Past Perfect Tense</h3>
+                <p>यह उन कामों के लिए इस्तेमाल होता है जो बीते समय में किसी दूसरे काम से पहले खत्म हो चुके थे।</p>
+                <p><b>Structure:</b> Subject + had + Verb (3rd form) + Object</p>
+                <p class="hindi"><b>Structure (Hindi):</b> कर्ता + चुका था/चुकी थी/चुके थे + क्रिया (तीसरा रूप) + कर्म</p>
+                <div class="examples">
+                    <h4>Examples:</h4>
+                    <div class="example">1. I had eaten food before you came. <span class="hindi">(तुम्हारे आने से पहले मैं खाना खा चुका था।)</span></div>
+                    <div class="example">2. She had gone to school. <span class="hindi">(वह स्कूल जा चुकी थी।)</span></div>
+                    <div class="example">3. We had played cricket. <span class="hindi">(हम क्रिकेट खेल चुके थे।)</span></div>
+                    <div class="example">4. The sun had risen. <span class="hindi">(सूरज उग चुका था।)</span></div>
+                    <div class="example">5. He had drunk milk. <span class="hindi">(वह दूध पी चुका था।)</span></div>
+                    <div class="example">6. They had read books. <span class="hindi">(वे किताबें पढ़ चुके थे।)</span></div>
+                    <div class="example">7. My mother had cooked food. <span class="hindi">(मेरी माँ खाना बना चुकी थी।)</span></div>
+                    <div class="example">8. A cat had run fast. <span class="hindi">(एक बिल्ली तेज़ दौड़ चुकी थी।)</span></div>
+                    <div class="example">9. Birds had flown in the sky. <span class="hindi">(पक्षी आसमान में उड़ चुके थे।)</span></div>
+                    <div class="example">10. Ram had studied. <span class="hindi">(राम पढ़ाई कर चुका था।)</span></div>
+                </div>
+            </div>
+
+            <div class="tense-type">
+                <h3>d) Past Perfect Continuous Tense</h3>
+                <p>यह उन कामों के लिए इस्तेमाल होता है जो बीते समय में कुछ समय से चल रहे थे और फिर खत्म हो गए।</p>
+                <p><b>Structure:</b> Subject + had been + Verb (1st form) + ing + Object + Since/For + Time</p>
+                <p class="hindi"><b>Structure (Hindi):</b> कर्ता + रहा था/रही थी/रहे थे + क्रिया + समय</p>
+                <div class="examples">
+                    <h4>Examples:</h4>
+                    <div class="example">1. I had been eating food for an hour. <span class="hindi">(मैं एक घंटे से खाना खा रहा था।)</span></div>
+                    <div class="example">2. She had been going to school since 2015. <span class="hindi">(वह 2015 से स्कूल जा रही थी।)</span></div>
+                    <div class="example">3. We had been playing cricket since morning. <span class="hindi">(हम सुबह से क्रिकेट खेल रहे थे।)</span></div>
+                    <div class="example">4. He had been drinking milk for 10 minutes. <span class="hindi">(वह 10 मिनट से दूध पी रहा था।)</span></div>
+                    <div class="example">5. They had been reading books for two hours. <span class="hindi">(वे दो घंटे से किताबें पढ़ रहे थे।)</span></div>
+                    <div class="example">6. My mother had been cooking food for a while. <span class="hindi">(मेरी माँ कुछ देर से खाना बना रही थी।)</span></div>
+                    <div class="example">7. It had been raining since last night. <span class="hindi">(कल रात से बारिश हो रही थी।)</span></div>
+                    <div class="example">8. He had been working in this company for five years. <span class="hindi">(वह इस कंपनी में पाँच साल से काम कर रहा था।)</span></div>
+                    <div class="example">9. We had been waiting for you for a long time. <span class="hindi">(हम तुम्हारा बहुत देर से इंतज़ार कर रहे थे।)</span></div>
+                    <div class="example">10. She had been singing for two hours. <span class="hindi">(वह दो घंटे से गा रही थी।)</span></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <hr>
+            <h2>3. Future Tense (भविष्य काल)</h2>
+            <p>यह हमें उन कामों के बारे में बताता है जो आने वाले समय में होंगे।</p>
+            <div class="tense-type">
+                <h3>a) Future Simple Tense</h3>
+                <p>यह उन कामों के लिए इस्तेमाल होता है जो आने वाले समय में होंगे।</p>
+                <p><b>Structure:</b> Subject + will/shall + Verb (1st form) + Object</p>
+                <p class="hindi"><b>Structure (Hindi):</b> कर्ता + करेगा/करेगी/करेंगे + क्रिया + कर्म</p>
+                <div class="examples">
+                    <h4>Examples:</h4>
+                    <div class="example">1. I will eat food. <span class="hindi">(मैं खाना खाऊंगा।)</span></div>
+                    <div class="example">2. She will go to school. <span class="hindi">(वह स्कूल जाएगी।)</span></div>
+                    <div class="example">3. We will play cricket. <span class="hindi">(हम क्रिकेट खेलेंगे।)</span></div>
+                    <div class="example">4. He will drink milk. <span class="hindi">(वह दूध पिएगा।)</span></div>
+                    <div class="example">5. They will read books. <span class="hindi">(वे किताबें पढ़ेंगे।)</span></div>
+                    <div class="example">6. My mother will cook food. <span class="hindi">(मेरी माँ खाना बनाएगी।)</span></div>
+                    <div class="example">7. A cat will run fast. <span class="hindi">(एक बिल्ली तेज़ दौड़ेगी।)</span></div>
+                    <div class="example">8. Birds will fly in the sky. <span class="hindi">(पक्षी आसमान में उड़ेंगे।)</span></div>
+                    <div class="example">9. Ram will study hard. <span class="hindi">(राम मेहनत से पढ़ाई करेगा।)</span></div>
+                    <div class="example">10. We will go to the market tomorrow. <span class="hindi">(हम कल बाज़ार जाएंगे।)</span></div>
+                </div>
+            </div>
+
+            <div class="tense-type">
+                <h3>b) Future Continuous Tense</h3>
+                <p>यह उन कामों के लिए इस्तेमाल होता है जो आने वाले समय में हो रहे होंगे।</p>
+                <p><b>Structure:</b> Subject + will be/shall be + Verb (1st form) + ing + Object</p>
+                <p class="hindi"><b>Structure (Hindi):</b> कर्ता + रहा होगा/रही होगी/रहे होंगे + क्रिया + कर्म</p>
+                <div class="examples">
+                    <h4>Examples:</h4>
+                    <div class="example">1. I will be eating food. <span class="hindi">(मैं खाना खा रहा हूँंगा।)</span></div>
+                    <div class="example">2. She will be going to school. <span class="hindi">(वह स्कूल जा रही होगी।)</span></div>
+                    <div class="example">3. We will be playing cricket. <span class="hindi">(हम क्रिकेट खेल रहे होंगे।)</span></div>
+                    <div class="example">4. He will be drinking milk. <span class="hindi">(वह दूध पी रहा होगा।)</span></div>
+                    <div class="example">5. They will be reading books. <span class="hindi">(वे किताबें पढ़ रहे होंगे।)</span></div>
+                    <div class="example">6. My mother will be cooking food. <span class="hindi">(मेरी माँ खाना बना रही होगी।)</span></div>
+                    <div class="example">7. A cat will be running fast. <span class="hindi">(एक बिल्ली तेज़ दौड़ रही होगी।)</span></div>
+                    <div class="example">8. Birds will be flying in the sky. <span class="hindi">(पक्षी आसमान में उड़ रहे होंगे।)</span></div>
+                    <div class="example">9. Ram will be studying. <span class="hindi">(राम पढ़ाई कर रहा होगा।)</span></div>
+                    <div class="example">10. We will be waiting for you. <span class="hindi">(हम तुम्हारा इंतज़ार कर रहे होंगे।)</span></div>
+                </div>
+            </div>
+
+            <div class="tense-type">
+                <h3>c) Future Perfect Tense</h3>
+                <p>यह उन कामों के लिए इस्तेमाल होता है जो आने वाले समय में किसी निश्चित समय तक पूरे हो चुके होंगे।</p>
+                <p><b>Structure:</b> Subject + will have/shall have + Verb (3rd form) + Object</p>
+                <p class="hindi"><b>Structure (Hindi):</b> कर्ता + चुका होगा/चुकी होगी/चुके होंगे + क्रिया (तीसरा रूप) + कर्म</p>
+                <div class="examples">
+                    <h4>Examples:</h4>
+                    <div class="example">1. I will have eaten food by 9 PM. <span class="hindi">(मैं रात 9 बजे तक खाना खा चुका हूँंगा।)</span></div>
+                    <div class="example">2. She will have gone to school. <span class="hindi">(वह स्कूल जा चुकी होगी।)</span></div>
+                    <div class="example">3. We will have played cricket. <span class="hindi">(हम क्रिकेट खेल चुके होंगे।)</span></div>
+                    <div class="example">4. He will have drunk milk. <span class="hindi">(वह दूध पी चुका होगा।)</span></div>
+                    <div class="example">5. They will have read books. <span class="hindi">(वे किताबें पढ़ चुके होंगे।)</span></div>
+                    <div class="example">6. My mother will have cooked food. <span class="hindi">(मेरी माँ खाना बना चुकी होगी।)</span></div>
+                    <div class="example">7. A cat will have run fast. <span class="hindi">(एक बिल्ली तेज़ दौड़ चुकी होगी।)</span></div>
+                    <div class="example">8. Birds will have flown in the sky. <span class="hindi">(पक्षी आसमान में उड़ चुके होंगे।)</span></div>
+                    <div class="example">9. Ram will have studied. <span class="hindi">(राम पढ़ाई कर चुका होगा।)</span></div>
+                    <div class="example">10. We will have reached home by then. <span class="hindi">(तब तक हम घर पहुँच चुके होंगे।)</span></div>
+                </div>
+            </div>
+
+            <div class="tense-type">
+                <h3>d) Future Perfect Continuous Tense</h3>
+                <p>यह उन कामों के लिए इस्तेमाल होता है जो आने वाले समय में कुछ समय से हो रहे होंगे।</p>
+                <p><b>Structure:</b> Subject + will have been + Verb (1st form) + ing + Object + Since/For + Time</p>
+                <p class="hindi"><b>Structure (Hindi):</b> कर्ता + रहा होगा/रही होगी/रहे होंगे + क्रिया + समय</p>
+                <div class="examples">
+                    <h4>Examples:</h4>
+                    <div class="example">1. I will have been eating for two hours. <span class="hindi">(मैं दो घंटे से खा रहा हूँंगा।)</span></div>
+                    <div class="example">2. She will have been going to school for a year. <span class="hindi">(वह एक साल से स्कूल जा रही होगी।)</span></div>
+                    <div class="example">3. We will have been playing cricket for three hours. <span class="hindi">(हम तीन घंटे से क्रिकेट खेल रहे होंगे।)</span></div>
+                    <div class="example">4. He will have been drinking milk for 10 minutes. <span class="hindi">(वह 10 मिनट से दूध पी रहा होगा।)</span></div>
+                    <div class="example">5. They will have been reading books for an hour. <span class="hindi">(वे एक घंटे से किताबें पढ़ रहे होंगे।)</span></div>
+                    <div class="example">6. My mother will have been cooking food for a while. <span class="hindi">(मेरी माँ कुछ देर से खाना बना रही होगी।)</span></div>
+                    <div class="example">7. It will have been raining for an hour. <span class="hindi">(एक घंटे से बारिश हो रही होगी।)</span></div>
+                    <div class="example">8. He will have been working in this company for five years. <span class="hindi">(वह इस कंपनी में पाँच साल से काम कर रहा होगा।)</span></div>
+                    <div class="example">9. We will have been waiting for you for a long time. <span class="hindi">(हम तुम्हारा बहुत देर से इंतज़ार कर रहे होंगे।)</span></div>
+                    <div class="example">10. By 2030, she will have been teaching for 10 years. <span class="hindi">(2030 तक, वह 10 साल से पढ़ा रही होगी।)</span></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>
